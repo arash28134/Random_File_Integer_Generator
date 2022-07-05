@@ -1,4 +1,4 @@
-# Random_File_Integer_Generator
+# Random File Integer Generator
 This is a shell script for filling .txt files with random integer numbers.
 
 # Running

@@ -6,7 +6,7 @@ This is a shell script for filling files with random integer numbers
 ```
 chmod +x RandomFileCreator.sh
 ```
-- and then:
+- And then:
 ```
 ./RandomFileCreator.sh
 ```
